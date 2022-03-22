@@ -1,7 +1,5 @@
 ### Hi I'm Ryutaro Yagi 👋
 
 ## Lang
-### Kotlin
-### C
-### C++
+### Kotlin / C / C++
 
