@@ -1,4 +1,4 @@
-### Hi I'm Ryutaro Yagi 👋
+### Hi I'm Ryutaro Yagi👋
 ## Android Engineer🧑🏼‍💻
 
 <a href="https://github.com/YagiRyu/github-readme-stats">
