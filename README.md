@@ -1,6 +1,6 @@
 ### Hi I'm Ryutaro Yagi 👋
 
-I am a software engineer in Japan🇯🇵
+I am a software engineer in Japan🇯🇵 </br>
 I mainly develop Android applications and I am also interested in developing iOS applications🧑🏻‍💻
 
 <a href="https://github.com/YagiRyu/github-readme-stats">
